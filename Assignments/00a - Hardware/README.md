@@ -4,15 +4,16 @@ Task(s)
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
 ###Hardware Parts
-1. Motherboard 
-2. CPU 
-3. RAM, ROM and general memory 
-4. Video Card 
-5. Sound Card 
-6. Power Supplies 
-7. Input devices (keyboard, mouse, scanner, webcams, etc.) 
-8. Output devices (monitor, projector, printer, etc.) 
-9. Hard Disk Drives, Solid State Drives, and any other storage drives 
+1. Motherboard (Riya)
+2. CPU (Umer)
+3. RAM, ROM and general memory (Aaron)
+4. Video Card (Ramsha)
+5. Sound Card (Matthew)
+6. Power Supplies (Mansi)
+7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Asfandyar)
+8. Output devices (monitor, projector, printer, etc.) (Yasmine)
+9. Hard Disk Drives, Solid State Drives, and any other storage drives (Ali)
+10. Network Cards, Wifi, Modem (Prabhjot)
 
 Presentation Schedule
 ------------------
