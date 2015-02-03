@@ -18,7 +18,7 @@ Task(s)
 Presentation Schedule
 ------------------
 
-- February 4rd: Group #1, 4, 7
+- February 4th: Group #1, 4, 7
 - February 5th: Group #2, 5, 8
 - February 6th: Group #3, 6, 9
 
