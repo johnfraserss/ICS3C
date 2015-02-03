@@ -5,7 +5,7 @@ Task(s)
 
 ###Hardware Parts
 1. Motherboard (Riya)
-2. CPU (Umer)
+2. CPU (Fizza)
 3. RAM, ROM and general memory (Aaron)
 4. Video Card (Ramsha)
 5. Sound Card (Matthew)
@@ -18,9 +18,9 @@ Task(s)
 Presentation Schedule
 ------------------
 
-- February 3rd: Group #1, 4, 7
-- February 4th: Group #2, 5, 8
-- February 5th: Group #3, 6, 9
+- February 4rd: Group #1, 4, 7
+- February 5th: Group #2, 5, 8
+- February 6th: Group #3, 6, 9
 
 Rubric(s)
 ---------
