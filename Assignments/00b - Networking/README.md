@@ -20,7 +20,7 @@ Answer the following questions by creating a visual representation of what is be
 
 Due Date(s)
 -----------
-See your teacher for due dates
+February 12th by end of class
 
 
 Rubric(s)
