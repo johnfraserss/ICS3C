@@ -1,11 +1,15 @@
 Task(s)
 -------
-To be completed
+Answer the questions for all the topics below in a word processing document in **bullet point form**:
+
+  * Environmental Negativity: Create a list of 3 negative effects of computer use on the environment.
+  * Environmental Positivity: Create a list of 3 ways computers can be used to reduce resource use (excluding paper saving/tree-related).
+  * Governmental Agencies: Find 3 government agencies and community partners that provide resources and guidance for environmental stewardship.
 
 Submissables
-------------
-To be completed
+------------------
+Do _not_ hand in this work.  It will just be checked for completion.
 
 Due Date(s)
-----------
-To be announced
+-----------
+This work will be assumed to have been completed as of February 17th.  There will be a random check no earlier than this date.
