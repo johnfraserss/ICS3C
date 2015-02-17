@@ -1,6 +1,6 @@
 Task(s)
 -------
-Complete the following tasks as described (there are many):
+Complete the following tasks as described (there are many).  Each major bullet point is a new program to create:
 
 ####Math
 
