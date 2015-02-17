@@ -29,7 +29,8 @@ print 2 + 1
 
 * Create a program that calculates the sum (addition) of 5, 6, and 7.4, including some text explaining what you are doing.  An example is below.  Save the file as '002.py'.
 ```python
-print 'The sum of ' + 1 + ', ' + 2 + ', and ' + 3 + ' is: ' + 1 + 2 + 3
+print 'The sum of 1, 2, and 3 is: ' + str(1 + 2 + 3)  
+                                      #the str() forces the information inside the parentheses to become a string
 
 >>> The sum of 1, 2, and 3 is: 6
 ```
@@ -76,7 +77,7 @@ print 2 ** 3
   * 3 [ ( 2 + 12) - 2 ( 5 - 1 ) ]
 
 ```python
-print '1 + 2 x 3 / (4 + 2) = ', 1+2*3/(4+2)
+print '1 + 2 x 3 / (4 + 2) = ' + str(1+2*3/(4+2))
 
 >>> 1 + 2 x 3 / (4 + 2) = 2
 ```
@@ -93,7 +94,7 @@ numberOfCars = 3
 * Create a program that assigns the value 42 to a variable called "theMeaningOfLife", then prints out "The meaning of life is: <value of theMeaningOfLife variable>".  See example below.  Save this file as 'var001.py'
 ```python
 numberOfCars = 3
-print 'The number of cars in the parking lot is' + numberOfCars
+print 'The number of cars in the parking lot is' + str(numberOfCars)
 
 >>> The number of cars in the parking lot is 3
 ```
@@ -106,7 +107,7 @@ a = 1
 b = 2
 c = 3
 
-print 'a + b + c = ' + (a + b + c)
+print 'a + b + c = ' + str(a + b + c)
 
 >>> a + b + c = 6
 ```
@@ -125,7 +126,7 @@ age = int(raw_input("Enter your age: "))  #the int( ) forces the value to be an 
 salary = float(raw_input("Enter your salary: "))
 
 #Outputting information based on the values above
-print 'Hello, ' + name + '.  I noticed that you are ' + age + ' years old, and have a salary of ' + salary + '.'
+print 'Hello, ' + name + '.  I noticed that you are ' + str(age) + ' years old, and have a salary of ' + str(salary) + '.'
 
 >>> Enter your name: Mr. Seidel
 >>> Enter your age: 100
