@@ -27,9 +27,9 @@ As you can see in the above example there are multiple ways to compare a value (
 |==| equal|
 |!=| not equal|
 
-* Create a program that compares two integers that were input by the user (using raw_input()), then outputs which one is the greater value.
+* Create a program that compares two integers that were input by the user (using raw_input()), then outputs which one is the greater value. Save the file as 'if001.py'
 
-* Create a program that takes in five integers between 0 and 100, then outputs the letter value of their **average** grade (A = 80-100, B = 70-79.9, C = 60-69.9, D = 50-59.9, F = any value less than 50).  If the user inputs a value that is outside of the range (less than 0, or greater than 100), have the program output some sort of error message and do not calculate the marks.
+* Create a program that takes in five integers between 0 and 100, then outputs the letter value of their **average** grade (A = 80-100, B = 70-79.9, C = 60-69.9, D = 50-59.9, F = any value less than 50).  If the user inputs a value that is outside of the range (less than 0, or greater than 100), have the program output some sort of error message and do not calculate the marks. Save the file as 'if002.py'
 
 Submissables
 ------------
