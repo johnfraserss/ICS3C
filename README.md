@@ -8,8 +8,8 @@ ICS3C Course for Mr. Seidel's classes
 Quizzes & Tests
 -------
 * Hardware Quiz - Friday, Feb 6
-* Programming Intro and Variables - Monday, Feb 23
-* Conditionals - Friday, Feb 27 
+* Programming Intro and Variables Quiz - Tuesday, Feb 24
+* Conditionals - Tuesday, Mar 3 
 * Functions - 
 * Iterations - 
 * Strings - 
