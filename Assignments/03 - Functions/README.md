@@ -47,7 +47,9 @@ print 'The volume of the box is: ' + str(volumeOfABox(a, b, c)) + ' units'
 * Modify 'if001.py' so that the comparison is done in a function.  Save the file as 'fun001.py'
 * Modify 'if002.py' so that the average mark is calculated using a function.  Save the file as 'fun002.py'
 * Create a program that takes in the values of a and b, and then calculates the hypotenuse of a triangle (c^2 = a^2 + b^2).  Use a function to calculate the hypotenuse. Save the file as 'fun003.py'
-* <More programs to come!>
+* Create a program that takes in one float value for Celsius.  The program should then use a function to convert the temperature to Fahrenheit, and then display the answer. Save the file as 'fun004.py'
+* Modify 'fun004.py' so that you enter Fahrenheit, and your function converts the value into Celsius instead. Save the file as 'fun005.py'
+
 
 Submissables
 ------------
