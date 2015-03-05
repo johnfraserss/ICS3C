@@ -102,6 +102,21 @@ We tend to use counted loops when we know how many times we have to iterate ahea
 >>> Enter the second number: 10
 
 >>> The total calculated value is: 45
+
+
+#Example input/output for iter005.py
+Enter a number: 10
+Enter another number: 5
+
+Menu of choices:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Choice: 2
+Answer: 5
+
+Enter a number: ... #loops around back to the top
 ```
 
 Submissables
