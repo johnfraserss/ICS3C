@@ -85,7 +85,7 @@ We tend to use counted loops when we know how many times we have to iterate ahea
 * Modify 'fun002.py' to use _while_ loops to ensure the grades are between 0 and 100 before moving on to calculating the average.  Save your work as 'iter002.py'.
 * Create a program using a _for_ loop that prints out a table of temperature conversions from 0 Celsius up to 100 Celsius, and also prints out the equivalent Fahrenheit temperatures.  Have this table only print out every 5th degree.  Save your work as 'iter003.py'.  See example below for what the input and output would look like.
 * Create a program that uses _while_ loops and _for loops_.  You are to take in two integer values, where the first value is always smaller than the second.  Once this has been established, your program should pass these two values on to a function that calculates the addition of all numbers within that range.  Once your function has this calculated, return the value and print it to the screen. Save your work as 'iter004.py'.  See example below for what the input and output would look like.
-* More programs to come!
+* Create a program that takes in two numbers and then displays a menu of options.  Your menu will have 5 choices to choose from: addition, subtraction, multiplication, division, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get two new numbers and display the menu again.  If the user chooses exit, have the program end.  Save this file as 'iter005.py'
 
 ```python
 #Example output for iter003.py
