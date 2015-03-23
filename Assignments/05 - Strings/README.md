@@ -31,7 +31,7 @@ sentenceLower = sentence.lower()
 countA = 0
 for i in range(0, len(sentenceLower), 1):
 	if (sentenceLower[i] == 'a'):
-		countAE = countA + 1
+		countA = countA + 1
 
 print 'The number of times "A" showed up is: ' + str(countA)
 
@@ -66,12 +66,32 @@ print name[:3]
 >>>Mr.		#name[:3]
 ```
 
+Using this knowledge, we can modify the program we created earlier to look for letter pairs.  Here is an example:
+
+```python
+sentence = raw_input("Enter a sentence: ")
+
+sentenceLower = sentence.lower()
+
+countEI = 0
+for i in range(0, len(sentenceLower), 1):
+	if (sentenceLower[i:i+2] == 'ei'):	#we use i+2 because it subtracts one
+		countEI = countEI + 1		    #so it actually goes to i+1
+
+print 'The number of times "ei" showed up is: ' + str(countEI)
+
+#Example input/output
+>>>Enter a sentence: My name is Mr. Seidel
+>>>The number of times "ei" showed up is:  1
+
+```
 
 * Create a program that reads in text from the user and counts how many vowels are in the string entered.  Save this file as 'string001.py'.
 * Create a program that reads in text from the user and counts all the consonants from the string entered.  Save this file as 'string002.py'
-* Create a program that uses prints out the **first** vowel in the string entered.  If there **no** vowels in the string entered, then have the program say that.  Save this file as 'string003.py'
+* Create a program that uses prints out the **first** vowel in the string entered.  If there are **no** vowels in the string entered, then have the program say that.  Save this file as 'string003.py'
 * Create a program that takes in 1 number, and 1 string.  Depending on the string input, have your program convert the number input from either Celsius to Fahrenheit, or Fahrenheit to Celsius.  Use functions for your conversions (a function from CtoF, and another for FtoC).  Save this file as 'string004.py'
 * Create a program that takes in a string and then displays a menu of options.  Your menu will have 5 choices to choose from: lowercase, uppercase, count vowels, count consonants, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get a new string and display the menu again.  If the user chooses exit, have the program end.  Save this file as 'string005.py'
+* Create a program that reads in text from the user and counts how many "double vowels" there are in the string entered.  For example, any "ea", or "ei", or "ou", etc. would could towards the total.  Save this file as 'string006.py'
 
 Submissables
 ------------
