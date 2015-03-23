@@ -2,7 +2,7 @@ Task(s)
 -------
 Strings are a variable type that can take in almost anything as an option.  You have been using them in your code all over the place - mainly when you print out information to the console.
 
-Now, we are going to bring in information and play around with the text that is given.  One of the **important** things to note about strings is that they are a list characters.  We are going to use that to our advangtage as we go step by step through building a program that will read in and analyze a bunch of text given by the user.
+Now, we are going to bring in information and play around with the text that is given.  One of the **important** things to note about strings is that they are a list characters.  We are going to use that to our advantage as we go step by step through building a program that will read in and analyze a bunch of text given by the user.
 
 ```python
 
@@ -43,7 +43,7 @@ print 'The number of times "A" showed up is: ' + str(countA)
 
 The above program uses a for loop to our advantage to cycle through all the letters in the sentence given, and then using an if statement checks each individual letter for a particular letter.  There is an advanced for loop that we can use to do the same thing, but we won't look at those until we get to the _Lists_ section of the course.
 
-When we index a string in Python, we can ask for just a portion of the string rather than just a single letter.  For example, we can ask for "letter pairs" or more of a string with the following notation:
+When we index a string in Python, we can ask for just a portion of the string rather than just a single letter.  This is called **slicing**  For example, we can ask for "letter pairs" or more of a string with the following notation:
 
 ```python
 name[start:end]
