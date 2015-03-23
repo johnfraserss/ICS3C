@@ -43,7 +43,7 @@ print 'The number of times "A" showed up is: ' + str(countA)
 
 The above program uses a for loop to our advantage to cycle through all the letters in the sentence given, and then using an if statement checks each individual letter for a particular letter.  There is an advanced for loop that we can use to do the same thing, but we won't look at those until we get to the _Lists_ section of the course.
 
-When we index a string in Python, we can ask for just a portion of the string rather than just a single letter.  For example, we can ask for "letter pairs" or more of a string with the following notation:
+When we index a string in Python, we can ask for just a portion of the string rather than just a single letter.  This is called **slicing**  For example, we can ask for "letter pairs" or more of a string with the following notation:
 
 ```python
 name[start:end]
