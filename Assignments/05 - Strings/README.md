@@ -2,7 +2,7 @@ Task(s)
 -------
 Strings are a variable type that can take in almost anything as an option.  You have been using them in your code all over the place - mainly when you print out information to the console.
 
-Now, we are going to bring in information and play around with the text that is given.  One of the **important** things to note about strings is that they are a list characters.  We are going to use that to our advangtage as we go step by step through building a program that will read in and analyze a bunch of text given by the user.
+Now, we are going to bring in information and play around with the text that is given.  One of the **important** things to note about strings is that they are a list characters.  We are going to use that to our advantage as we go step by step through building a program that will read in and analyze a bunch of text given by the user.
 
 ```python
 
