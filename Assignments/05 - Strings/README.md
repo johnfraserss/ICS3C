@@ -91,7 +91,7 @@ print 'The number of times "ei" showed up is: ' + str(countEI)
 * Create a program that prints out the **first** vowel in the string entered.  If there are **no** vowels in the string entered, then have the program say that.  Save this file as 'string003.py'
 * Create a program that takes in 1 number, and 1 string.  Depending on the string input, have your program convert the number input from either Celsius to Fahrenheit, or Fahrenheit to Celsius.  Use functions for your conversions (a function from CtoF, and another for FtoC).  Save this file as 'string004.py'
 * Create a program that takes in a string and then displays a menu of options.  Your menu will have 5 choices to choose from: lowercase, uppercase, count vowels, count consonants, or exit.  Based on the user's choice, have the computer compute the result, display it to the screen, and then loop around to get a new string and display the menu again.  If the user chooses exit, have the program end.  Save this file as 'string005.py'
-* Create a program that reads in text from the user and counts how many "double vowels" there are in the string entered.  For example, any "ea", or "ei", or "ou", etc. would could towards the total.  Save this file as 'string006.py'
+* Create a program that reads in text from the user and counts how many "double vowels" there are in the string entered.  For example, any "ea", or "ei", or "ou", etc. would count towards the total.  Save this file as 'string006.py'
 
 Submissables
 ------------
