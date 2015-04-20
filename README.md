@@ -5,7 +5,7 @@ ICS3C Course for Mr. Seidel's classes
 
 * [Course Textbook](http://www.pythonlearn.com/book.php)
 
-Quizzes
+Tests & Quizzes
 -------
 * Hardware Quiz - Friday, Feb 6
 * Programming Intro and Variables Quiz - Tuesday, Feb 24
@@ -13,6 +13,11 @@ Quizzes
 * Functions - Tuesday, Mar 10
 * Iterations - Friday, Mar 13
 * Strings - Tuesday, Mar 31
-* Lists - Tuesday, Apr 7
+* MID-SEMESTER TEST - Thursday, April 9th (topics include all of the above)
+* Lists - Tuesday, Apr 14
 * Files -
 * Tuples -
+* Dictionaries -
+* Regular Expressions - 
+* Network Programming -
+* Web Services -
