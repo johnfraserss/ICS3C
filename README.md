@@ -14,9 +14,9 @@ Tests & Quizzes
 * Iterations - Friday, Mar 13
 * Strings - Tuesday, Mar 31
 * MID-SEMESTER TEST - Thursday, April 9th (topics include all of the above)
-* Lists - Tuesday, Apr 14
-* Files -
-* Tuples -
+* Lists - Tuesday, Apr 28
+* Files - Tuesday, May 5
+* Tuples - 
 * Dictionaries -
 * Regular Expressions - 
 * Network Programming -
