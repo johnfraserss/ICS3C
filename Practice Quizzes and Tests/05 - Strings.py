@@ -1,4 +1,4 @@
-#Conditional
+#Strings
 
 #1. How can we use a for loop and indexing to go through and count vowels?
 
