@@ -15,7 +15,7 @@ Tests & Quizzes
 * Strings - Tuesday, Mar 31
 * MID-SEMESTER TEST - Thursday, April 9th (topics include all of the above)
 * Lists - Tuesday, Apr 28
-* Files - Tuesday, May 5
+* Files - 
 * Tuples - 
 * Dictionaries -
 * Regular Expressions - 
