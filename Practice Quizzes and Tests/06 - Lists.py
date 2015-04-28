@@ -1,4 +1,4 @@
-#Conditional
+#Lists
 
 #1. What is append() used for?
 
