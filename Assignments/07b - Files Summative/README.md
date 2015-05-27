@@ -7,6 +7,7 @@ Using the file generator in **OUT | SEIDEL | ICS3C | FILES SUMMATIVE | runMe.py*
 Your analysis should be able to work for **any** generated text file.  The text file will only contain capital letters, lowercase letters, and the newline character (to create separate lines).
 
 Your analysis must include the following:
+
 1. How many vowels there are (a, e, i, o, u): in total, and per line.
 2. How many consonants there are: in total, and per line.
 3. How many capital vowels there are: in total, and per line.
@@ -17,6 +18,7 @@ Your analysis must include the following:
 8. How many characters exist per line (all lines are equal) in your text file.
 
 You will also create a visual representation of the text file in multiple ways:
+
 1. You will change every vowel into a space, and every consonant into an 'o' and display the entire text file.
 2. You will change every consonant into a space, and every vowel into an 'o' and display the entire text file.
 3. You will change every capital letter into a space, and every lowercase letter into an 'o' and display the entire text file.
