@@ -2,7 +2,8 @@ Task(s)
 -------
 This summative will be in lieu of a quiz/test for the **Files** section of the course.
 
-Using the file generator in **OUT | SEIDEL | ICS3C | FILES SUMMATIVE | runMe.py**, your task is to complete a full analysis of the text file generated.
+Run the following program:  **OUT | SEIDEL | ICS3C | FILES SUMMATIVE | runMe.py**
+Afterwards, your task is to complete a full analysis of the text file generated in your G drive.
 
 Your analysis should be able to work for **any** generated text file.  The text file will only contain capital letters, lowercase letters, and the newline character (to create separate lines).
 
@@ -30,4 +31,4 @@ Do **not** submit any of the work from this section.  Your teacher will randomly
 
 Due Date(s)
 ----------
-To be announced in-class as we get closer to completion of the tasks above.
+Due by June 19th, 2015.  Will be marked in class the following Monday.
