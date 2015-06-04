@@ -9,12 +9,12 @@ Your analysis should be able to work for **any** generated text file.  The text 
 
 Your analysis must include the following:
 
-1. How many vowels there are (a, e, i, o, u): in total, and per line.
-2. How many consonants there are: in total, and per line.
-3. How many capital vowels there are: in total, and per line.
-4. How many capital consonants there are: in total, and per line.
-5. How many lowercase vowels there are: in total, and per line.
-6. How many lowercase consonants there are: in total, and per line.
+1. How many vowels there are (a, e, i, o, u): in total, and a per line average.
+2. How many consonants there are: in total, and a per line average.
+3. How many capital vowels there are: in total, and a per line average.
+4. How many capital consonants there are: in total, and a per line average.
+5. How many lowercase vowels there are: in total, and a per line average.
+6. How many lowercase consonants there are: in total, and a per line average.
 7. How many lines of text are included in your text file.
 8. How many characters exist per line (all lines are equal) in your text file.
 
