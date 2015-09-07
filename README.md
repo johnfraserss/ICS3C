@@ -5,15 +5,14 @@ ICS3C Course for Mr. Seidel's classes
 
 * [Course Textbook](http://www.pythonlearn.com/book.php)
 
-Tests & Quizzes (Tentative topics)
+Tentative topics
 -------
-* Hardware Quiz - 
-* Programming Intro and Variables Quiz - 
+* Hardware - 
+* Programming Intro and Variables - 
 * Conditionals - 
 * Functions - 
 * Iterations - 
 * Strings - 
-* MID-SEMESTER TEST - 
 * Lists - 
 * Files - 
 * Tuples - 
