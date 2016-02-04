@@ -20,3 +20,5 @@ Tentative topics
 * Regular Expressions - 
 * Network Programming -
 * Web Services -
+
+Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
