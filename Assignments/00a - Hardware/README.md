@@ -18,7 +18,7 @@ Task(s)
 Presentation Schedule
 ------------------
 
-- February 8th: As many as possible
+- February 9th/10th: Will be completed with the 3U class.  See [this](https://github.com/mrseidel-classes/ICS3U/tree/master/Assignments/02%20-%20Hardware) page for your group information and presentation schedule
 
 Rubric(s)
 ---------
