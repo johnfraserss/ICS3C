@@ -20,8 +20,7 @@ Answer the following questions by creating a visual representation of what is be
 
 Due Date(s)
 -----------
-February 12th by end of class
-
+Hand in to the IN drive (IN | Seidel | ICS3C | <folder>) by February 12th at the end of the day
 
 Rubric(s)
 ---------
