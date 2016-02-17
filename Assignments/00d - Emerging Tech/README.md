@@ -23,10 +23,10 @@ Task(s)
 | Name(s) | Topics |
 |-------|--------|
 | Giuliano | Topic 1 |
-| Rauridh | Topic 2 |
-| Sherhyar | Topic 3 |
+| Rauridh | Augmented Reality |
+| Sherhyar | Drones |
 | Bhavin | Topic 4 |
-| Jaweria | Topic 5 |
+| Jaweria | LiFi |
 
 Presentation Schedule
 ------------------
