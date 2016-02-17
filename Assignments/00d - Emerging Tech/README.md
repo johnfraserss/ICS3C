@@ -25,7 +25,7 @@ Task(s)
 | Giuliano | Topic 1 |
 | Rauridh | Augmented Reality |
 | Sherhyar | Drones |
-| Bhavin | Topic 4 |
+| Bhavin | Green Bullets |
 | Jaweria | LiFi |
 
 Presentation Schedule
