@@ -22,7 +22,7 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
-| Giuliano | Topic 1 |
+| Giuliano | 3D Bio-Printing |
 | Rauridh | Augmented Reality |
 | Sherhyar | Drones |
 | Bhavin | Green Bullets |
