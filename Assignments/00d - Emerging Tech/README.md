@@ -25,7 +25,7 @@ Task(s)
 | Giuliano | 3D Bio-Printing |
 | Rauridh | Augmented Reality |
 | Sherhyar | Drones |
-| Bhavin | Green Bullets |
+| Bhavin | Flying Cars |
 | Jaweria | LiFi |
 
 Presentation Schedule
