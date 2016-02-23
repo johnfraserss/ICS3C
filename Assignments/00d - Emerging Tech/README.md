@@ -22,11 +22,11 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
-| Giuliano | Topic 1 |
-| Rauridh | Topic 2 |
-| Sherhyar | Topic 3 |
-| Bhavin | Topic 4 |
-| Jaweria | Topic 5 |
+| Giuliano | 3D Bio-Printing |
+| Rauridh | Augmented Reality |
+| Sherhyar | Drones |
+| Bhavin | Flying Cars |
+| Jaweria | LiFi |
 
 Presentation Schedule
 ------------------
