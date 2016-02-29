@@ -7,12 +7,12 @@ ICS3C Course for Mr. Seidel's classes
 
 Tentative topics
 -------
-* Hardware - 
-* Programming Intro and Variables - 
-* Conditionals - 
-* Functions - 
-* Iterations - 
-* Strings - 
+* Hardware - none
+* Programming Intro and Variables - March 3rd, 2016
+* Conditionals - March 10th, 2016
+* Functions - March 24th, 2016
+* Iterations - March 31st, 2016
+* Strings - April 7th, 2016
 * Lists - 
 * Files - 
 * Tuples - 
