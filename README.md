@@ -11,7 +11,7 @@ Tentative topics
 * Programming Intro and Variables - March 3rd, 2016
 * Conditionals - March 10th, 2016
 * Functions - March 24th, 2016
-* Iterations - March 31st, 2016
+* Iterations - April 1st, 2016
 * Strings - April 7th, 2016
 * Lists - 
 * Files - 
