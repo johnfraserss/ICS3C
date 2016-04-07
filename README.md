@@ -13,6 +13,7 @@ Tentative topics
 * Functions - March 24th, 2016
 * Iterations - April 7th, 2016
 * Strings - April 14th, 2016
+* Mid-Semester Test - April 21st, 2016
 * Lists - 
 * Files - 
 * Tuples - 
