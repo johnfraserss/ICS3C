@@ -17,8 +17,8 @@ Tentative topics
 * Lists - April 28th, 2016
 * Files (Reading) - May 5th, 2016
 * Files (Writing) - May 12th, 2016
-* Dictionaries - May 21st, 2016
-* Network Programming - May 28th, 2016
+* Dictionaries - May 19th, 2016
+* Network Programming - May 26th, 2016
 * ~~Regular Expressions~~
 * ~~Web Services~~ 
 * Culminating - June ___, 2016
