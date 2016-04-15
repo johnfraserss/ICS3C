@@ -14,12 +14,13 @@ Tentative topics
 * Iterations - April 7th, 2016
 * Strings - April 14th, 2016
 * Mid-Semester Test - April 21st, 2016
-* Lists - 
-* Files - 
-* Tuples - 
-* Dictionaries -
-* Regular Expressions - 
-* Network Programming -
-* Web Services -
+* Lists - April 28th, 2016
+* Files (Reading) - May 5th, 2016
+* Files (Writing) - May 12th, 2016
+* Dictionaries - May 21st, 2016
+* Network Programming - May 28th, 2016
+* ~~Regular Expressions~~
+* ~~Web Services~~ 
+* Culminating - June ___, 2016
 
 Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
