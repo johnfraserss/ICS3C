@@ -18,7 +18,7 @@ Tentative topics
 * Files (Reading) - No quiz/assessment.  Will be combined with Writing
 * Files (Writing) - May 12th, 2016
 * Dictionaries - May 26th, 2016
-* ~~Network Programming ~~
+* ~~Network Programming~~
 * ~~Regular Expressions~~
 * ~~Web Services~~ 
 * Culminating - June ___, 2016
