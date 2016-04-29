@@ -32,7 +32,7 @@ for line in fileContent:		#"line" variable is the string content of one line of 
 	for word in words:			#"word" is an individual item in the list of words
 		if word == "Mr.":
 			mrCount = mrCount + 1
-		elif word == "Mrs."
+		elif word == "Mrs.":
 			mrsCount = mrsCount + 1
 
 print "Number of 'Mr.' in the file: " + str(mrCount)
