@@ -33,7 +33,7 @@ fileContent = f.readlines()
 f.close()
 
 alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
-key = 'yblavdnrwexizgqskujhcftmopYBLAVDNRWEXIZGQSKUJHCFTMOP' #'a' gets translated to 'y', 'b' gets translated to 'b', and so on.
+key = 'yblavdnrwexizgqskujhcftmopYBLAVDNRWEXIZGQSKUJHCFTMOP' #'a' gets decoded to 'y', 'b' gets decoded to 'b', and so on.
 
 def decode(line):
   decodedLine = ""
@@ -58,8 +58,8 @@ For the last question, you will also need to know a few quick things about ASCII
 ```python
 print ord('A')		#NEW: this prints the ASCII value of the character "A".
 print ord('a')
-print chr(65)		#NEW: this prints the character that has the ASCII value 65.
-print chr(97)
+print chr(43)		#NEW: this prints the character that has the ASCII value 65.
+print chr(82)
 ```
 
 The code above will give the following output:
@@ -67,8 +67,8 @@ The code above will give the following output:
 ```python
 >>>65
 >>>97
->>>A
->>>a
+>>>+
+>>>R
 ```
 
 * Create a program that creates the file 'pyramid.txt' with the following content. Save this file as 'wFiles001.py'.
@@ -85,7 +85,7 @@ The code above will give the following output:
 
 * Create a program that reads in 'loremIpsum.txt' file and writes its content to 'newLoremIpsum.txt' while replacing every lowercase letter with its respective uppercase letter, and vice versa. Save this file as 'wFiles003.py'.
 
-* Create a program that reads in 'mysteryText.txt' and writes its content to 'mysteryTextDecoded.txt' while replacing every character with its subsequent ASCII character. For example, every 'a' changes to 'b', every '#' changes to a '$', and every 'z' changes to a '{'. Save this file as 'wFiles004.py'.
+* Create a program that reads in 'mysteryText.txt' and writes its content to 'mysteryTextDecoded.txt' while replacing every character with its subsequent ASCII character. For example, every 'a' changes to 'b', every '#' changes to '$', and every 'z' changes to '{'. Save this file as 'wFiles004.py'.
 
 Submissables
 ------------
