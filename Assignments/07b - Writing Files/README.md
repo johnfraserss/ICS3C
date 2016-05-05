@@ -58,7 +58,7 @@ For the last question, you will also need to know a few quick things about ASCII
 ```python
 print ord('A')		#NEW: this prints the ASCII value of the character "A".
 print ord('a')
-print chr(43)		#NEW: this prints the character that has the ASCII value 65.
+print chr(43)		#NEW: this prints the character that has the ASCII value 43.
 print chr(82)
 ```
 
