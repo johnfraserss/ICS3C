@@ -68,4 +68,4 @@ Do **not** submit any of the work from this section.  Your teacher will randomly
 
 Due Date(s)
 ----------
-To be announced in-class as we get closer to completion of the tasks above.
+The due date for this assignment is May 12th, 2016.
