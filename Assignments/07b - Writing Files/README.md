@@ -89,9 +89,9 @@ The code above will give the following output:
 
 Submissables
 ------------
-Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work on May 12, 2016, to ensure understanding.
+Do **not** submit any of the work from this section.  Your teacher will randomly choose a few programs to evaluate.  There will also be a quiz/test on this section of work on May 16, 2016, to ensure understanding.
 
 Due Date(s)
 ----------
-The due date for this assignment is May 12th, 2016.
+The due date for this assignment is May 16th, 2016.
 
