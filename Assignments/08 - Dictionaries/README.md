@@ -79,16 +79,7 @@ print groceryList
 >>>{'strawberry': 12, 'banana': 2, 'apple': 5} #The order of the key:value pairs in may be different
 ```
 
-
-* Create a program that has the function numberofChars. The function takes a string and prints a dictionary showing each character's number of occurrences in the string. See below for an example. Save this file as 'd001.py'.
-
-```python
-print numberOfChars('potato')
-
->>>{'p':1, 'o':2, 't':2, 'a':1}  #The order of the key:value pairs may be different
-```
-
-* Create a program that has the function commonKeys. The function takes two dictionaries and prints every key that occurs in both dictionaries. See below for an example. Save this file as 'd002.py'.
+* Create a program that has the function commonKeys. The function takes two dictionaries and prints every key that occurs in both dictionaries. See below for an example. Save this file as 'dict001.py'.
 
 ```python
 groceryList = {'banana': 2, 'apple': 5, 'orange': 3, 'strawberry': 12}
@@ -98,6 +89,14 @@ print commonKeys(groceryList, fruitScores)
 
 >>>banana  #The order in which the keys are printed may be different
 >>>orange
+```
+
+* Create a program that has the function numberofChars. The function takes a string and prints a dictionary showing each character's number of occurrences in the string. See below for an example. Save this file as 'dict002.py'.
+
+```python
+print numberOfChars('potato')
+
+>>>{'p':1, 'o':2, 't':2, 'a':1}  #The order of the key:value pairs may be different
 ```
 
 Submissables
