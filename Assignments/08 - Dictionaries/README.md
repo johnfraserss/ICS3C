@@ -82,7 +82,7 @@ print groceryList
 
 * Create a program that has the function numberofChars(). The function takes a string and prints a dictionary with the number occurrences of each distinct characters in the string. See below for an example. Save this file as 'd001.py'.
 
-```
+```python
 print numberOfChars("potato")
 
 >>>{'p':1,'o':2,'t':2,'a':1}  #The order of the key:value pairs in may be different
@@ -90,7 +90,7 @@ print numberOfChars("potato")
 
 * Create a program that has the function commonKeys(). The function takes two dictionaries and prints every key that occurs in both dictionaries. See below for an example. Save this file as 'd002.py'.
 
-```
+```python
 groceryList = {'banana': 2, 'apple': 5, 'orange': 3, 'strawberry': 12}
 fruitScores = {'kiwi': 'okay', 'banana': 'nom', 'cherry': 'alright' , 'orange': 'delicious', 'blueberry': 'yuck'}
 
