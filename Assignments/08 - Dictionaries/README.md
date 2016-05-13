@@ -32,7 +32,7 @@ for item in groceryList:
 
 Note that the order of the keys may not be the same order as you would expect. This is because dictionaries do not have indices like lists do. The order the keys in which are outputted depends on where they are stored in memory, which may be different every time the program is run.
 
-We add information to dictionaries using the following syntax.
+We can add information to dictionaries using the following syntax.
 
 ```python
 groceryList = {'banana': 2, 'apple': 5, 'orange': 3, 'strawberry': 12}
@@ -68,8 +68,8 @@ Here are some other things we can do to dictionaries.
 groceryList = {'banana': 2, 'apple': 5, 'orange': 3, 'strawberry': 12}
 
 print len(groceryList)                #Prints the length of groceryList, which is the number of key:value pairs
-print groceryList.has_key("banana")   #Prints true, since "banana" is a key in groceryList
-print groceryList.has_key("potato")   #Prints false, since "potato" is not a key in groceryList
+print groceryList.has_key('banana')   #Prints true, since 'banana' is a key in groceryList
+print groceryList.has_key('potato')   #Prints false, since 'potato' is not a key in groceryList
 del groceryList['orange']             #Removes 'orange':3 from groceryList
 print groceryList
 
@@ -80,15 +80,15 @@ print groceryList
 ```
 
 
-* Create a program that has the function numberofChars(). The function takes a string and prints a dictionary with the number occurrences of each distinct characters in the string. See below for an example. Save this file as 'd001.py'.
+* Create a program that has the function numberofChars. The function takes a string and prints a dictionary showing each character's number of occurrences in the string. See below for an example. Save this file as 'd001.py'.
 
 ```python
-print numberOfChars("potato")
+print numberOfChars('potato')
 
->>>{'p':1,'o':2,'t':2,'a':1}  #The order of the key:value pairs in may be different
+>>>{'p':1, 'o':2, 't':2, 'a':1}  #The order of the key:value pairs may be different
 ```
 
-* Create a program that has the function commonKeys(). The function takes two dictionaries and prints every key that occurs in both dictionaries. See below for an example. Save this file as 'd002.py'.
+* Create a program that has the function commonKeys. The function takes two dictionaries and prints every key that occurs in both dictionaries. See below for an example. Save this file as 'd002.py'.
 
 ```python
 groceryList = {'banana': 2, 'apple': 5, 'orange': 3, 'strawberry': 12}
@@ -96,10 +96,9 @@ fruitScores = {'kiwi': 'okay', 'banana': 'nom', 'cherry': 'alright' , 'orange': 
 
 print commonKeys(groceryList, fruitScores)
 
->>>'banana'  #The order in which the keys are printed may be different
->>>'orange'
+>>>banana  #The order in which the keys are printed may be different
+>>>orange
 ```
-
 
 Submissables
 ------------
