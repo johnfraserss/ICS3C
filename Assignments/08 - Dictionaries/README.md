@@ -76,7 +76,7 @@ print groceryList
 >>>4
 >>>True
 >>>False
->>>{'strawberry': 12, 'banana': 2, 'apple': 5} #The order of the key:value pairs in may be different
+>>>{'strawberry': 12, 'banana': 2, 'apple': 5} #The order of the key:value pairs may be different
 ```
 
 * Create a program that has the function commonKeys. The function takes two dictionaries and prints every key that occurs in both dictionaries. See below for an example. Save this file as 'dict001.py'.
@@ -91,7 +91,7 @@ print commonKeys(groceryList, fruitScores)
 >>>orange
 ```
 
-* Create a program that has the function numberofChars. The function takes a string and prints a dictionary showing each character's number of occurrences in the string. See below for an example. Save this file as 'dict002.py'.
+* Create a program that has the function numberOfChars. The function takes a string and prints a dictionary showing each character's number of occurrences in the string. See below for an example. Save this file as 'dict002.py'.
 
 ```python
 print numberOfChars('potato')
