@@ -85,7 +85,7 @@ print groceryList
 groceryList = {'banana': 2, 'apple': 5, 'orange': 3, 'strawberry': 12}
 fruitScores = {'kiwi': 'okay', 'banana': 'nom', 'cherry': 'alright' , 'orange': 'delicious', 'blueberry': 'yuck'}
 
-print commonKeys(groceryList, fruitScores)
+commonKeys(groceryList, fruitScores)
 
 >>>banana  #The order in which the keys are printed may be different
 >>>orange
@@ -94,7 +94,7 @@ print commonKeys(groceryList, fruitScores)
 * Create a program that has the function numberOfChars. The function takes a string and prints a dictionary showing each character's number of occurrences in the string. See below for an example. Save this file as 'dict002.py'.
 
 ```python
-print numberOfChars('potato')
+numberOfChars('potato')
 
 >>>{'p':1, 'o':2, 't':2, 'a':1}  #The order of the key:value pairs may be different
 ```
