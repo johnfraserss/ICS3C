@@ -128,7 +128,7 @@ The **join** function is set up a little differently than any other function you
 'separator'.join(list of strings)
 ```
 
-The _separator_ is a string that is used to separate each item in the list that you are joining together.  In our example above, we had a list of strings in _gradeListString_ that had the values ['70.0', '70.0', '80.0', '80.0', '90.0'].  After using the ```', '.join()``` function on it we had the string "70.0, 70.0, 80.0, 80.0, 90.0" where each number was separated by the **', '** portion of the join function.  This new string was then stored in the _gradeOutputString_ variable for further use.
+The _separator_ is a string that is used to separate each item in the list that you are joining together.  In our example above, we had a list of strings in _gradeListString_ that had the values ['70.0', '70.0', '80.0', '80.0', '90.0'].  After using the ```', '.join()``` function on it we had the string "70.0, 70.0, 80.0, 80.0, 90.0" where each number was separated by the **', '** portion of the join function.  This new string was then stored in the ```gradeOutputString``` variable for further use.
 
 
 * Create a program that reads in 10 numbers between 0 and 100 (stored into a list) from the user then outputs how many numbers were entered in properly, what the highest number was, the lowest number was, the list of all numbers, and the average of all the numbers.  Save this file as 'lists001.py'.
