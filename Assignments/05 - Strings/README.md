@@ -21,7 +21,7 @@ print name.lower().count('e')
 >>>2
 
 ```
-In the above example, we take in the name 'Mr. Seidel' and we can then access and modify the string as it is.  Each section of the name can be accessed using a [number] afterwards starting at 0.  So, name[0] will print out the first letter in the string, name[1] will print out the second letter, etc. The .lower() function will change all the letters to lowercase, and .upper() all to uppercase.  You can string together multiple functions as shown with .lower() and .count('e') so that it changes the string to a lowercase version and then counts the amount of times the letter 'e' shows up in that string.  There are many other string related functions that are used.  We will bring them up as they are required for use in the class.
+In the above example, we take in the name 'Mr. Seidel' and we can then access and modify the string as it is.  Each section of the name can be accessed using a [number] afterwards starting at 0.  So, ```name[0]``` will print out the first letter in the string, ```name[1]``` will print out the second letter, etc. The ```.lower()``` function will change all the letters to lowercase, and ```.upper()``` all to uppercase.  You can string together multiple functions as shown with ```.lower()``` and ```.count('e')``` so that it changes the string to a lowercase version and then counts the amount of times the letter 'e' shows up in that string.  There are many other string related functions that are used.  We will bring them up as they are required for use in the class.
 
 ```python
 sentence = input("Enter a sentence: ")
@@ -48,7 +48,7 @@ When we index a string in Python, we can ask for just a portion of the string ra
 ```python
 name[start:end]
 ```
-where "start" is the index of the first letter we want to start the substring at, and "end" is the last index to end the substring at (minus one, just like a for loop).  If there is no number put in, it is either assumed that you are starting from the beginning, or going all the way to the end of the string.  You can also include negative values, which will start it's count from the end of the string.  Here are some examples to clarify:
+where ```start``` is the index of the first letter we want to start the substring at, and ```end``` is the last index to end the substring at (minus one, just like a for loop).  If there is no number put in, it is either assumed that you are starting from the beginning, or going all the way to the end of the string.  You can also include negative values, which will start it's count from the end of the string.  Here are some examples to clarify:
 
 ```python
 name = raw_input("Enter your full name: ")
