@@ -18,14 +18,14 @@ file.close()
 ...
 ```
 
-In the second line of both versions, the file "document.txt" is opened and stored in the variable "file". The only difference between the reading version and writing version is that when you're reading a file, you use "r", and when you're writing, you use "w". 
+In the second line of both versions, the file "document.txt" is opened and stored in the variable ```file```. The only difference between the reading version and writing version is that when you're reading a file, you use ```'r'```, and when you're writing, you use ```'w'```. 
 
-Now that "document.txt" is stored in a variable and Python knows that we plan to be writing to it, we can tell it what to write. In the writing example, the word "content" will be written to the file. If "document.txt" already has data, it will be overwritten with just the word "content". If we want to simply add the word "content" at the very end of "document.txt" without affecting what is already in the file, we would replace the "w" in line 2 with "a", where "a" stands for *append*.
+Now that "document.txt" is stored in a variable and Python knows that we plan to be writing to it, we can tell it what to write. In the writing example, the word "content" will be written to the file. If "document.txt" already has data, it will be overwritten with just the word "content". If we want to simply add the word "content" at the very end of "document.txt" without affecting what is already in the file, we would replace the ```'w'``` in line 2 with ```'a'```, where ```'a'``` stands for *append*.
 
-Now that we are done with the file, we close it with "file.close()", for good housekeeping.
+Now that we are done with the file, we close it with ```file.close()```, for good housekeeping.
 
 
-For this assignment, you will need some extra information. Here is an example of a substitution cipher, which that decodes an encrypted text.
+For this assignment, you will need some extra information. Here is an example of a substitution cipher, which decodes an encrypted text.
 
 ```python
 f = open('mysteryText.txt', 'r')
@@ -94,4 +94,3 @@ Do **not** submit any of the work from this section.  Your teacher will randomly
 Due Date(s)
 ----------
 The due date for this assignment is May 16th, 2016.
-
