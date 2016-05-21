@@ -17,7 +17,8 @@ Tentative topics
 * Lists - April 28th, 2016
 * Files (Reading) - No quiz/assessment.  Will be combined with Writing
 * Files (Writing) - May 16th, 2016
-* Dictionaries - May 26th, 2016
+* Dictionaries - May 20th, 2016
+* Postsecondary Opportunities - May 26, 2016
 * ~~Network Programming~~
 * ~~Regular Expressions~~
 * ~~Web Services~~ 
