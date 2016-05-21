@@ -11,9 +11,9 @@ while (n > 0):
     n = n - 1
 print 'Blastoff!'
 ```
-In the above example, there are a few new concepts happening.  The first is the **while** loop.  It is set up similarly to a conditional statement (if statement), in that it will continue to run as long as it's condition is true (in this case, while _n > 0_, keep going).  The second is the idea of changing a variable over time (n).  The statement _n = n - 1_ updates the value of _n_ by subtracting 1 every time the while loop happens.
+In the above example, there are a few new concepts happening.  The first is the ```while``` loop.  It is set up similarly to a conditional statement (if statement), in that it will continue to run as long as it's condition is true (in this case, ```while (n > 0)```, keep going).  The second is the idea of changing a variable over time (```n```).  The statement ```n = n - 1``` updates the value of ```n``` by subtracting 1 every time the while loop happens.
 
-Another way to set up a while loop is to have it run forever until a certain condition happens; at which point, you _break_ out of it.
+Another way to set up a while loop is to have it run forever until a certain condition happens; at which point, you ```break``` out of it.
 
 ```python
 while (True):
@@ -26,7 +26,7 @@ while (True):
 print 'The value you entered was ' + str(num)
 ```
 
-In the above example, we are forcing the user to enter a number that is between 0 and 100; otherwise, we continue to ask for the number.  Once we have the correct value (the number is between 0 and 100), then we _break_ out of the while loop.
+In the above example, we are forcing the user to enter a number that is between 0 and 100; otherwise, we continue to ask for the number.  Once we have the correct value (the number is between 0 and 100), then we ```break``` out of the while loop.
 
 ####For loops (also known as Counted Loops)
 Let's take a look a quick example of how a counted loop is set up, and how we can use it.
@@ -60,20 +60,20 @@ for i in range(5, 1, -1):
 >>>3
 >>>2
 ```
-Let's take a look at what is happening from the three examples above.  In _Example #1_ we have a for loop set up that creates the variable _i_ has a range of (0, 5, 1).  These range values have the following properties:
-- _i_ will start at 0
-- _i_ will increment by 1s every time the loop restarts
-- _i_ will end at (5 - 1).  So in this case, it ends at 4.
+Let's take a look at what is happening from the three examples above.  In _Example #1_ we have a for loop set up that creates the variable ```i``` has a range of (0, 5, 1).  These range values have the following properties:
+- ```i``` will start at 0
+- ```i``` will increment by 1s every time the loop restarts
+- ```i``` will end at (5 - 1).  So in this case, it ends at 4.
 
 If we compare that to _Example #2_, the range values have the following properties instead:
-- _i_ will start at 1
-- _i_ will increment by 2s every time the loop restarts
-- _i_ will end at (10 - 1) at most.  So in this case, it ends at 9.
+- ```i``` will start at 1
+- ```i``` will increment by 2s every time the loop restarts
+- ```i``` will end at (10 - 1) at most.  So in this case, it ends at 9.
   
 Finally, if we compare that to _Example #3_, the range values have the following properties:
-- _i_ will start at 5
-- _i_ will increment by -1 every time (so it will go down by 1 every time) the loop restarts
-- _i_ will end at (1 + 1). So in this case it ends at 2.
+- ```i``` will start at 5
+- ```i``` will increment by -1 every time (so it will go down by 1 every time) the loop restarts
+- ```i``` will end at (1 + 1). So in this case it ends at 2.
   
 From the example ranges above, we can gather the following information from the set up of a for loop.  If we are *counting up*, then the first value is the start, the (second value - 1) is the end, and the third value is how much we count up by.  If we *counting down*, then the first value is the start, the (second value + 1) is the end, and the third value is how much we count down by.
 
