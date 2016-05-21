@@ -12,7 +12,7 @@ Task(s)
   3. Determine whether previous experience with programming is needed to be hired as a programmer.
   4. Determine whether post-secondary education in computing is needed to be hired as a programmer.
   
-You are limited to **100 words for each of the task** (200 words total). Separately, include your sources, cited in APA or MLA format.
+You are limited to **100 words for each of the tasks** (200 words total). Separately, include your sources, cited in APA or MLA format.
 
 
 Submissables
