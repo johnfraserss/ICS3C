@@ -13,7 +13,7 @@ primt 'Hello World!'
 print 'What's up?'
 
 #Code block C
-print 5*10
+print 5 * 10
 
 #Code block D
 print '5' * 10
