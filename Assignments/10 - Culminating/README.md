@@ -14,9 +14,9 @@ The following survey will be conducted during class time to you and your ICS 3C 
   4. Name one job that you can pursue with a background in computer science.
   5. Briefly explain why programming is a useful skill.
 
-You will be given the results in the form of a spreadsheet. Using the knowledge you've acquired from this course, store the information in two different ways so that they can be used in Python programs. 
+You will be given the results in the form of a spreadsheet. Using the knowledge you've acquired from this course, store the results in **two different ways**.
 
-Write programs to determine at least **five** of the following:
+Write Python programs to determine at least **five** of the following:
 
 * The median result in response to the first question.
 * The mode (i.e., most common) result in response to the first question.
@@ -64,10 +64,17 @@ The rubric below will be used to evaluate part 1.
 
 | | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
-| K: | | | | | |
-| A: | | | | | |
-| T: | | | | | |
-| C: | | | | | |
+| K: Use of constants and variables | | | | | |
+| K: Use of conditional statements  | | | | | |
+| K: Use of arithmetic operators and/or comparison operators  | | | | | |
+| A: Use of loops  | | | | | |
+| A: Use of mathematical equations and/or formulae  | | | | | |
+| A: Use of functions  | | | | | |
+| T: Storing data with appropriate data types  | | | | | |
+| T: Algorithm development  | | | | | |
+| C: Readability of code  | | | | | |
+| C: Use of conventions in documentation  | | | | | |
+
 
 The rubric below will be used to evaluate part 2.
 
@@ -77,6 +84,7 @@ The rubric below will be used to evaluate part 2.
 | A: Debugging and planning strategies  | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
+
 
 The rubric below will be used to evaluate part 3.
 
