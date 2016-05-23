@@ -22,6 +22,6 @@ Tentative topics
 * ~~Network Programming~~
 * ~~Regular Expressions~~
 * ~~Web Services~~ 
-* Culminating - June ___, 2016
+* Culminating - June 17th, 2016 by 4:00pm
 
 Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
