@@ -8,15 +8,16 @@ Task(s)
 
 The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in class on May 25 by the teacher to you and your ICS 3C and 3U peers. 
 
+
   1. On a scale from 0 to 10, how fun is programming?
   2. What percentage of the software development process would you estimate is spent writing code?
   3. Name one aspect of being a good digital citizen.
   4. Name one job that you can pursue with a background in computer science.
   5. Briefly explain why programming is a useful skill.
 
+
 The results of the survey are found in *Survey_Results.xlsx*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
 
-Write Python programs to determine at least **five** of the following:
 
 * The median result in response to the first question.
 * The mode (i.e., most common) result in response to the first question.
@@ -28,6 +29,7 @@ Write Python programs to determine at least **five** of the following:
 
 
 ###Part 2
+
 Write a reflection paper about your process in Part 1. In fewer than 200 words total, respond to **all** the following:
 
   1. Which way of storing data allowed for easiest access? Why?
@@ -55,6 +57,7 @@ Hand in your programs and written responses to the /IN folder.
 All three parts of the culminating are due on June 17th, 2016 by 4:00 PM.
 
 
+
 Rubric and Expectations
 -----------------------
 
@@ -73,7 +76,6 @@ The rubric below will be used to evaluate part 1.
 | C: Readability of code | | | | | |
 | C: Use of conventions in documentation (include header, in-line documentation, etc.) | | | | | |
 
-
 The rubric below will be used to evaluate part 2.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
@@ -82,7 +84,6 @@ The rubric below will be used to evaluate part 2.
 | A: Debugging and planning strategies | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
-
 
 The rubric below will be used to evaluate part 3.
 
