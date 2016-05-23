@@ -6,7 +6,7 @@ Task(s)
 
 ###Part 1
 
-The following survey will be conducted by the teacher during class time to you and your ICS 3C and 3U peers. 
+The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) will be conducted by the teacher during class time to you and your ICS 3C and 3U peers. 
 
   1. On a scale from 0 to 10, how fun is programming?
   2. What percentage of the software development process would you estimate is spent writing code?
