@@ -8,6 +8,7 @@ Task(s)
 
 The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in class on May 25 by the teacher to you and your ICS 3C and 3U peers. 
 
+
   1. On a scale from 0 to 10, how fun is programming?
   2. What percentage of the software development process would you estimate is spent writing code?
   3. Name one aspect of being a good digital citizen.
@@ -17,8 +18,6 @@ The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in c
 
 The results of the survey are found in *Survey_Results.csv*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
 
-
-Write Python programs to determine at least **five** of the following:
 
 * The median result in response to the first question.
 * The mode (i.e., most common) result in response to the first question.
@@ -30,7 +29,6 @@ Write Python programs to determine at least **five** of the following:
 
 
 ###Part 2
-
 
 Write a reflection paper about your process in Part 1. In fewer than 200 words total, respond to **all** the following:
 
@@ -57,6 +55,7 @@ Hand in your programs and written responses to the /IN folder.
 ###Due Date(s)
 
 All three parts of the culminating are due on June 17th, 2016 by 4:00 PM.
+
 
 
 Rubric and Expectations
