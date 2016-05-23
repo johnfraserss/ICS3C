@@ -6,7 +6,7 @@ Task(s)
 
 ###Part 1
 
-The following survey will be conducted during class time to you and your ICS 3C and 3U peers. 
+The following survey will be conducted by the teacher during class time to you and your ICS 3C and 3U peers. 
 
   1. On a scale from 0 to 10, how fun is programming?
   2. What percentage of the software development process would you estimate is spent writing code?
@@ -41,7 +41,7 @@ In fewer than 300 words total, respond to **all** of the following:
 
   1. Which computer peripheral device do you use the most? Find three computer tasks that cannot be accomplished without this device. Why can't these three tasks be done without this device?
   2. What are the stages in the software development life cycle "waterfall model"? Which stage do you think would take the most time in a software project? Why?
-  3. Name two negative effects of computer use on the environment. Select one of the negative effects and explain what you can do to reduce this effect.
+  3. Name two negative effects of computer use on the environment. Select one of the negative effects and explain what you can do to reduce this effect. (Do not choose paper waste as a negative effect.)
   4. Name two negative effects of computer use on human health. Select one of the negative effects and explain what you can do to avoid it. 
 
 	
@@ -59,8 +59,6 @@ Rubric and Expectations
 -----------------------
 
 The rubric below will be used to evaluate part 1.
-
-(To be completed soon.)
 
 | | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
