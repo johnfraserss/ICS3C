@@ -62,16 +62,16 @@ The rubric below will be used to evaluate part 1.
 
 | | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
-| K: Use of constants and variables | | | | | |
-| K: Use of conditional statements  | | | | | |
-| K: Use of arithmetic operators and/or comparison operators  | | | | | |
-| A: Use of loops  | | | | | |
+| K: Use of constants and/or variables | | | | | |
+| K: Use of conditional statements (if statements)  | | | | | |
+| K: Use of arithmetic operators (+, -, *, etc.) and/or comparison operators (==, <, etc.)  | | | | | |
+| A: Use of loops (for, while, etc.)  | | | | | |
 | A: Use of mathematical equations and/or formulae  | | | | | |
-| A: Use of functions  | | | | | |
-| T: Storing data with appropriate data types  | | | | | |
-| T: Algorithm development  | | | | | |
+| A: Use of functions (```def xyz()```)  | | | | | |
+| T: Storing data with appropriate data types (files, dictionaries, lists, strings, etc. and choosing the right one(s) for the job)  | | | | | |
+| T: Algorithm development (easy to follow code and works properly)  | | | | | |
 | C: Readability of code  | | | | | |
-| C: Use of conventions in documentation  | | | | | |
+| C: Use of conventions in documentation (include header, in-line documentation, etc.)  | | | | | |
 
 
 The rubric below will be used to evaluate part 2.
