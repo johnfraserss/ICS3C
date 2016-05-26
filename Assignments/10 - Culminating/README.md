@@ -80,8 +80,8 @@ The rubric below will be used to evaluate part 2.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-| K: Knowledge of data storage in Python  | | | | | |
-| A: Debugging and planning strategies  | | | | | |
+| K: Knowledge of data storage in Python | | | | | |
+| A: Debugging and planning strategies | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
 
