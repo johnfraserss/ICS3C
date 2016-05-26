@@ -77,7 +77,6 @@ The rubric below will be used to evaluate part 1.
 | C: Readability of code | | | | | |
 | C: Use of conventions in documentation (include header, in-line documentation, etc.) | | | | | |
 
-
 The rubric below will be used to evaluate part 2.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
@@ -86,7 +85,6 @@ The rubric below will be used to evaluate part 2.
 | A: Debugging and planning strategies | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
-
 
 The rubric below will be used to evaluate part 3.
 
