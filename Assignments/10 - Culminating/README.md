@@ -64,7 +64,6 @@ The rubric below will be used to evaluate part 1.
 
 | | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
-<<<<<<< HEAD
 | K: Use of constants and/or variables | | | | | |
 | K: Use of conditional statements (if statements)  | | | | | |
 | K: Use of arithmetic operators (+, -, *, etc.) and/or comparison operators (==, <, etc.) | | | | | |
@@ -75,38 +74,18 @@ The rubric below will be used to evaluate part 1.
 | T: Algorithm development (easy to follow code that works properly) | | | | | |
 | C: Readability of code | | | | | |
 | C: Use of conventions in documentation (include header, in-line documentation, etc.) | | | | | |
-=======
-| K: Use of constants and variables | | | | | |
-| K: Use of conditional statements  | | | | | |
-| K: Use of arithmetic operators and/or comparison operators  | | | | | |
-| A: Use of loops  | | | | | |
-| A: Use of mathematical equations and/or formulae  | | | | | |
-| A: Use of functions  | | | | | |
-| T: Storing data with appropriate data types  | | | | | |
-| T: Algorithm development  | | | | | |
-| C: Readability of code  | | | | | |
-| C: Use of conventions in documentation  | | | | | |
 
->>>>>>> Added more information to culminating readme
 
 The rubric below will be used to evaluate part 2.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-<<<<<<< HEAD
-| K: Knowledge of data storage in Python | | | | | |
-| A: Debugging and planning strategies | | | | | |
-| T: Amount of insight and thought put into reflection | | | | | |
-| C: Appropriateness of written language for target audience (teacher) | | | | | |
-
-=======
 | K: Knowledge of data storage in Python  | | | | | |
 | A: Debugging and planning strategies  | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
 
 
->>>>>>> Added more information to culminating readme
 The rubric below will be used to evaluate part 3.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
