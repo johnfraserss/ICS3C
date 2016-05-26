@@ -14,7 +14,7 @@ The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in c
   4. Name one job that you can pursue with a background in computer science.
   5. Briefly explain why programming is a useful skill.
 
-The results of the survey can be found in *Survey_Results.xlsx*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
+The results of the survey are found in *Survey_Results.xlsx*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
 
 Write Python programs to determine at least **five** of the following:
 
@@ -62,16 +62,16 @@ The rubric below will be used to evaluate part 1.
 
 | | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
-| K: Use of constants and variables | | | | | |
-| K: Use of conditional statements  | | | | | |
-| K: Use of arithmetic operators and/or comparison operators  | | | | | |
-| A: Use of loops  | | | | | |
+| K: Use of constants and/or variables | | | | | |
+| K: Use of conditional statements (if statements)  | | | | | |
+| K: Use of arithmetic operators (+, -, *, etc.) and/or comparison operators (==, <, etc.) | | | | | |
+| A: Use of loops (for, while, etc.)  | | | | | |
 | A: Use of mathematical equations and/or formulae  | | | | | |
-| A: Use of functions  | | | | | |
-| T: Storing data with appropriate data types  | | | | | |
-| T: Algorithm development  | | | | | |
+| A: Use of functions (```def xyz()```) | | | | | |
+| T: Storing data with appropriate data types (files, dictionaries, lists, strings, etc. and choosing the right one(s) for the job) | | | | | |
+| T: Algorithm development (easy to follow code that works properly)  | | | | | |
 | C: Readability of code  | | | | | |
-| C: Use of conventions in documentation  | | | | | |
+| C: Use of conventions in documentation (include header, in-line documentation, etc.)  | | | | | |
 
 
 The rubric below will be used to evaluate part 2.
