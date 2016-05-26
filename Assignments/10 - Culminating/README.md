@@ -65,21 +65,21 @@ The rubric below will be used to evaluate part 1.
 | K: Use of constants and/or variables | | | | | |
 | K: Use of conditional statements (if statements)  | | | | | |
 | K: Use of arithmetic operators (+, -, *, etc.) and/or comparison operators (==, <, etc.) | | | | | |
-| A: Use of loops (for, while, etc.)  | | | | | |
-| A: Use of mathematical equations and/or formulae  | | | | | |
+| A: Use of loops (for, while, etc.) | | | | | |
+| A: Use of mathematical equations and/or formulae | | | | | |
 | A: Use of functions (```def xyz()```) | | | | | |
 | T: Storing data with appropriate data types (files, dictionaries, lists, strings, etc. and choosing the right one(s) for the job) | | | | | |
-| T: Algorithm development (easy to follow code that works properly)  | | | | | |
-| C: Readability of code  | | | | | |
-| C: Use of conventions in documentation (include header, in-line documentation, etc.)  | | | | | |
+| T: Algorithm development (easy to follow code that works properly) | | | | | |
+| C: Readability of code | | | | | |
+| C: Use of conventions in documentation (include header, in-line documentation, etc.) | | | | | |
 
 
 The rubric below will be used to evaluate part 2.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-| K: Knowledge of data storage in Python  | | | | | |
-| A: Debugging and planning strategies  | | | | | |
+| K: Knowledge of data storage in Python | | | | | |
+| A: Debugging and planning strategies | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
 
@@ -88,7 +88,7 @@ The rubric below will be used to evaluate part 3.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-| K: Knowledge of peripheral devices, environmental stewardship, and safe computing  | | | | | |
-| A: Connection to everyday use of computers  | | | | | |
+| K: Knowledge of peripheral devices, environmental stewardship, and safe computing | | | | | |
+| A: Connection to everyday use of computers | | | | | |
 | T: Amount of insight and thought put into responses | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
