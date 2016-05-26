@@ -6,7 +6,7 @@ Task(s)
 
 ###Part 1
 
-The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) will be conducted by the teacher during class time to you and your ICS 3C and 3U peers. 
+The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in class on May 25 by the teacher to you and your ICS 3C and 3U peers. 
 
   1. On a scale from 0 to 10, how fun is programming?
   2. What percentage of the software development process would you estimate is spent writing code?
@@ -14,7 +14,7 @@ The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) will be conducted 
   4. Name one job that you can pursue with a background in computer science.
   5. Briefly explain why programming is a useful skill.
 
-You will be given the results in the form of a spreadsheet. Using the knowledge you've acquired from this course, store the results in **two different ways**.
+The results of the survey are found in *Survey_Results.xlsx*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
 
 Write Python programs to determine at least **five** of the following:
 
@@ -64,22 +64,22 @@ The rubric below will be used to evaluate part 1.
 | --- | --- | --- | --- | --- | --- |
 | K: Use of constants and/or variables | | | | | |
 | K: Use of conditional statements (if statements)  | | | | | |
-| K: Use of arithmetic operators (+, -, *, etc.) and/or comparison operators (==, <, etc.)  | | | | | |
-| A: Use of loops (for, while, etc.)  | | | | | |
-| A: Use of mathematical equations and/or formulae  | | | | | |
-| A: Use of functions (```def xyz()```)  | | | | | |
-| T: Storing data with appropriate data types (files, dictionaries, lists, strings, etc. and choosing the right one(s) for the job)  | | | | | |
-| T: Algorithm development (easy to follow code and works properly)  | | | | | |
-| C: Readability of code  | | | | | |
-| C: Use of conventions in documentation (include header, in-line documentation, etc.)  | | | | | |
+| K: Use of arithmetic operators (+, -, *, etc.) and/or comparison operators (==, <, etc.) | | | | | |
+| A: Use of loops (for, while, etc.) | | | | | |
+| A: Use of mathematical equations and/or formulae | | | | | |
+| A: Use of functions (```def xyz()```) | | | | | |
+| T: Storing data with appropriate data types (files, dictionaries, lists, strings, etc. and choosing the right one(s) for the job) | | | | | |
+| T: Algorithm development (easy to follow code that works properly) | | | | | |
+| C: Readability of code | | | | | |
+| C: Use of conventions in documentation (include header, in-line documentation, etc.) | | | | | |
 
 
 The rubric below will be used to evaluate part 2.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-| K: Knowledge of data storage in Python  | | | | | |
-| A: Debugging and planning strategies  | | | | | |
+| K: Knowledge of data storage in Python | | | | | |
+| A: Debugging and planning strategies | | | | | |
 | T: Amount of insight and thought put into reflection | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
 
@@ -88,7 +88,7 @@ The rubric below will be used to evaluate part 3.
 
 | | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-| K: Knowledge of peripheral devices, environmental stewardship, and safe computing  | | | | | |
-| A: Connection to everyday use of computers  | | | | | |
+| K: Knowledge of peripheral devices, environmental stewardship, and safe computing | | | | | |
+| A: Connection to everyday use of computers | | | | | |
 | T: Amount of insight and thought put into responses | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
