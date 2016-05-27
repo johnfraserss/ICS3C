@@ -14,7 +14,9 @@ The following [survey](http://goo.gl/forms/uIn1REwRkwb0nUft1) was conducted in c
   4. Name one job that you can pursue with a background in computer science.
   5. Briefly explain why programming is a useful skill.
 
-The results of the survey are found in *Survey_Results.xlsx*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
+
+The results of the survey are found in *Survey_Results.csv*. Using the knowledge you've acquired from this course, store these results in **two different ways** (other than a spreadsheet).
+
 
 Write Python programs to determine at least **five** of the following:
 
@@ -33,7 +35,7 @@ Write Python programs to determine at least **five** of the following:
 Write a reflection paper about your process in Part 1. In fewer than 200 words total, respond to **all** the following:
 
   1. Which way of storing data allowed for easiest access? Why?
-  2. Which of the five tasks was the most challenging? Why?
+  2. Which of the five (or more) tasks was the most challenging? Why?
   3. Discuss some of the planning and debugging strategies you used to overcome challenges when writing your programs.
 
 
