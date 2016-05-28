@@ -23,10 +23,51 @@ Write Python programs to determine at least **five** of the following:
 * The median result in response to the first question.
 * The mode (i.e., most common) result in response to the first question.
 * The average result in response to the second question.
-* The most common word that is at least 6 letters long in response to the third question.
-* The three most common words in response to the fourth question.
-* The student(s) who wrote the highest total number of characters in their responses.
-* The student(s) who wrote the lowest total number of characters in their responses.
+* The most common word with at least 6 letters in response to the third question.
+* The most common word in response to the fourth question.
+* The student who wrote the highest total number of characters (excluding digits) in their responses.
+* The student who wrote the lowest total number of characters (excluding digits) in their responses.
+
+You may assume that there is only one answer to each (i.e., no ties).
+
+
+You may find some of these built-in functions useful:
+
+```python
+
+list1 = [1, 2, 4, 3, 2, 6, 3]
+list2 = ['also', 'what', 'dog', 'quest']
+
+print sum(list1) # prints the sum of all the ints in list1
+
+print min(list1) # prints the lowest int in list1
+
+print max(list1) # prints the highest int in list1
+
+print " ".join(list2) # prints all the strings in list2, separated by one space (it's the "opposite" of .split())
+
+print list1.count(2) # prints the number of times 2 appears in list1
+
+print list1.index(2) # prints the index of the first 2 in list1
+
+list1.sort() # puts list1 into ascending order
+
+list2.sort() # puts list2 into alphabetical order (if they are all the same case)
+
+print list1
+
+print list2
+
+>>>21
+>>>1
+>>>6
+>>>also what dog quest
+>>>2
+>>>1
+>>>[1, 2, 2, 3, 3, 4, 6]
+>>>['also', 'dog', 'quest', 'what']
+
+```
 
 
 ###Part 2
