@@ -36,9 +36,13 @@ You may find some of these built-in functions useful:
 ```python
 
 list1 = [1, 2, 4, 3, 2, 6, 3]
-list2 = ['and', 'what', 'dog', 'quest']
+list2 = ['also', 'what', 'dog', 'quest']
 
 print sum(list1) # prints the sum of all the ints in list1
+
+print min(list1) # prints the lowest int in list1
+
+print max(list1) # prints the highest int in list1
 
 print " ".join(list2) # prints all the strings in list2, separated by one space (it's the "opposite" of .split())
 
@@ -55,11 +59,13 @@ print list1
 print list2
 
 >>>21
->>>and what dog quest
+>>>1
+>>>6
+>>>also what dog quest
 >>>2
 >>>1
 >>>[1, 2, 2, 3, 3, 4, 6]
->>>['as', 'dog', 'quest', 'what']
+>>>['also', 'dog', 'quest', 'what']
 
 ```
 
