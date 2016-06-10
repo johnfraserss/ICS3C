@@ -25,3 +25,4 @@ Tentative topics
 * Culminating - June 17th, 2016 by 4:00pm
 
 Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
+Please complete this [outtake survey](http://goo.gl/forms/tENY8LMiU3xkZ9Bx1)
